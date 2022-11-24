@@ -1,0 +1,28 @@
+{
+  "tollData": [
+    {
+      "entry_point": "Khanpur Road Interchange",
+      "exit_point": "Khanpur Road Interchange",
+      "day": "2022-11-01",
+      "number_plate": "WEE-123",
+      "toll_paid": "20",
+      "id": 1
+    },
+    {
+      "entry_point": "Khanpur Road Interchange",
+      "exit_point": "Havelian Interchange",
+      "day": "2022-11-03",
+      "number_plate": "CTD-122",
+      "toll_paid": "44",
+      "id": 2
+    },
+    {
+      "entry_point": "Khanpur Road Interchange",
+      "exit_point": "Shah Maqsood Interchange",
+      "day": "2022-11-04",
+      "number_plate": "GGG-565",
+      "toll_paid": "34",
+      "id": 3
+    }
+  ]
+}
